@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ChaBot.iml" filepath="$PROJECT_DIR$/.idea/ChaBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyAssistent.iml" filepath="$PROJECT_DIR$/.idea/MyAssistent.iml" />
     </modules>
   </component>
 </project>
